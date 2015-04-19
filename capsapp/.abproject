@@ -1,0 +1,40 @@
+{
+  "ProjectName": "capsapp",
+  "ProjectGuid": "7c906ac3-c964-4f14-b8d0-5438b5c3efc5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.capsapp",
+  "DisplayName": "capsapp",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{0c713f99-d3e7-46df-bf3e-9309fb499542}",
+  "WP8ProductID": "{628c5f24-2f1c-437b-90b3-27a909b23e93}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.capsapp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
